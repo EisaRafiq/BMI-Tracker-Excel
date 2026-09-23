@@ -19,6 +19,6 @@ This tracker calculates a person's change in weight, BMI and BMI category over a
 
 This project helped m develop my skills and understanding of Excel and how much of a beneficial tool it can be for future projects
 
-## 
+## Project purpose
 
 I created this project to further develop my skills but also to help people monitor changes in their weight and BMI
